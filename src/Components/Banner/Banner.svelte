@@ -12,7 +12,7 @@
         <h1>{HEADING}</h1>
         <p>{DECRIPTION}</p>
         <a href={TUTORIAL_URL} target="_blank" class="light-color">
-          <i class="far fa-play-circle fa-2x watch-btn" />
+          <i class="far fa-solid fa-cash-register"></i>          
           {WATCH_TUTORIAL}
         </a>
       </div>
@@ -38,11 +38,11 @@
     text-transform: uppercase;
   }
 
-  .watch-btn {
+  /* .watch-btn {
     margin: auto 20px;
     position: relative;
     top: 8px;
-  }
+  } */
 
   section a {
     text-decoration: none;
