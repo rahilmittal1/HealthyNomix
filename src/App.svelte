@@ -13,7 +13,7 @@
 <!-- Navbar -->
 <Navbar navlists={DATA.NAVBAR_DATA} header={DATA.HEADER} />
 <!-- Banner -->
-<Banner bannerData={DATA.BANNER_DATA} } />
+<Banner bannerData={DATA.BANNER_DATA} />
 <!-- Services -->
 <Services serviceData={DATA.SERVICE_DATA} />
 <!-- About -->
@@ -24,3 +24,4 @@
 <Social socialData={DATA.SOCIAL_DATA} />
 <!-- Footer -->
 <Footer footerData={DATA.FOOTER_DATA} header={DATA.HEADER} />
+
