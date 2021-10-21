@@ -1,4 +1,4 @@
-const HEADER = "Nixalar";
+const HEADER = "HealthyNomix";
 
 const NAVBAR_DATA = [
   { id: 1, url: "/", label: "Home" },
@@ -8,33 +8,33 @@ const NAVBAR_DATA = [
   { id: 5, url: "#footer", label: "Contacts" }
 ];
 const BANNER_DATA = {
-  HEADING: "Go digital with nixalar",
+  HEADING: "Healing Healthcare With HealthyNomix",
   DECRIPTION:
-    "Nixalar can help you skyrocket the ROI of your marketing campaign without having to spend tons of money or time to assemble an in-house team.",
+    "At Healthynomix, we’re committed to providing you with the most exceptional care in a compassionate and friendly atmosphere.",
   TUTORIAL_URL:
-    "https://www.thinkwithgoogle.com/intl/en-gb/marketing-resources/programmatic/google-digital-academy/",
-  WATCH_TUTORIAL: "Watch Tutorials"
+    "https://youtu.be/dQw4w9WgXcQ",
+  WATCH_TUTORIAL: "Book An Appointment"
 };
 const SERVICE_DATA = {
   HEADING: "Our Services",
   ALL_SERVICES: "All Services",
   SERVICE_LIST: [
     {
-      LABEL: "Search Engine Optimisation",
+      LABEL: "Appointment Booking System",
       DESCRIPTION:
-        "To customise the content, technical functionality and scope of your website so that your pages show for a specific set of keyword at the top of a search engine list. In the end, the goal is to attract traffic to your website when they are searching for goods, services or business-related information.",
+        "At Healthynomix, we want to improve patient access to care and care quality, which is why we place such an emphasis on providing access to our dedicated Same-Day Appointment Booking System. You can now book an appointment through the website or through our app",
       URL: "images/service1.png"
     },
     {
-      LABEL: "Content Marketing Strategy",
+      LABEL: "On-call Providers",
       DESCRIPTION:
-        "It is tough but well worth the effort to create clever material that is not promotional in nature, but rather educates and inspires. It lets them see you as a reliable source of information by delivering content that is meaningful to your audience.",
+        "Our On-Call Providers makes the patient experience much easier and our care services more effective. We emphasize convenience for all our patients to ensure that visiting us is something you want to do. We connect you with medical experts and professionals to cater to your needs on call without any hassle. You can contact us to find more.",
       URL: "images/service2.png"
     },
     {
-      LABEL: "Develop Social Media Strategy",
+      LABEL: "Patient Portal",
       DESCRIPTION:
-        "Many People rely on social networks to discover, research, and educate themselves about a brand before engaging with that organization. The more your audience wants to engage with your content, the more likely it is that they will want to share it.",
+        "We know how frustrating it can be when you need to see an expert or get answers and none are available. We provide our Patient Portal to help our patients feel better, sooner. Try the Healthynomix app  difference for yourself or scroll through the website for more information.",
       URL: "images/service3.png"
     }
   ]
@@ -45,14 +45,12 @@ const ABOUT_DATA = {
   TITLE: "Why we're different",
   IMAGE_URL: "images/network.png",
   WHY_CHOOSE_US_LIST: [
-    "We provides Cost-Effective Digital Marketing than Others.",
-    "High customer statisfaction and experience.",
-    "Marketing efficiency and quick time to value.",
-    "Clear & transparent fee structure.",
-    "We provides Marketing automation which is an integral platform that ties all of your digital marketing together.",
-    "A strong desire to establish long lasting business partnerships.",
-    "Provide digital marketing to mobile consumer.",
-    "We provides wide range to services in reasonable prices"
+    "At Healthynomix, we’re committed to providing you with the most exceptional care in a compassionate and friendly atmosphere. ",
+    "We aim to cover 3 main Sustainable Development Goals: Good Health and Well-Being, Gender Equality and Economic Growth and prosperity.",
+    "Since the very beginning, we have had the philosophy that our patients come first. ",
+    "Allow us to connect you with suitable medical experts to care for you.",
+    "Find out more about our providers and let us take care of you.",
+    
   ]
 };
 const TESTIMONIAL_DATA = {
@@ -60,14 +58,14 @@ const TESTIMONIAL_DATA = {
   TESTIMONIAL_LIST: [
     {
       DESCRIPTION:
-        "Nixalar has made a huge difference to our business with his good work and knowledge of SEO and business to business marketing techniques. Our search engine rankings are better than ever and we are getting more people contacting us thanks to Jomer’s knowledge and hard work.",
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. ",
       IMAGE_URL: "images/user1.jpg",
       NAME: "Julia hawkins",
       DESIGNATION: "Co-founder at ABC"
     },
     {
       DESCRIPTION:
-        "Nixalar and his team have provided us with a comprehensive, fast and well planned digital marketing strategy that has yielded great results in terms of content, SEO, Social Media. His team are a pleasure to work with, as well as being fast to respond and adapt to the needs of your brand.",
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. ",
       IMAGE_URL: "images/user2.jpg",
       NAME: "John Smith",
       DESIGNATION: "Co-founder at xyz"
@@ -89,14 +87,14 @@ const SOCIAL_DATA = {
 
 const FOOTER_DATA = {
   DESCRIPTION:
-    "We are typically focused on result-based maketing in the digital world. Also, we evaluate your brand’s needs and develop a powerful strategy that maximizes profits.",
+    "At Healthynomix, we’re committed to providing you with the most exceptional care in a compassionate and friendly atmosphere.",
   CONTACT_DETAILS: {
     HEADING: "Contact us",
     ADDRESS: "La trobe street docklands, Melbourne",
     MOBILE: "+1 61234567890",
-    EMAIL: "nixalar@gmail.com"
+    EMAIL: "rahilmittal1@gmail.com"
   },
-  SUBSCRIBE_NEWSLETTER: "Subscribe newsletter",
+  SUBSCRIBE_NEWSLETTER: "Subscribe to our newsletter to keep up to date with our latest developments",
   SUBSCRIBE: "Subscribe"
 };
 
