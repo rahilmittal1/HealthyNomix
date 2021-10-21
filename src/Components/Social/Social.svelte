@@ -11,7 +11,7 @@
     <div class="social-icons section-body">
       {#each IMAGES_LIST as list}
         <a
-          href="https://www.linkedin.com/in/nikhil-karkra-73a15319/"
+          href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           target="_blank">
           <img src={list} alt="Social media {list}" />
         </a>
